@@ -1,0 +1,391 @@
+Here are several **trial balance questions** across different difficulty levels—these are useful for practice in accounting, especially for understanding how debits and credits balance. I’ve included a variety of types: multiple choice, journal-to-trial balance, and error identification.
+
+---
+
+### **Basic Level Questions**
+
+1. **What is a trial balance?**
+   a) A statement showing cash inflows and outflows
+   b) A summary of all ledger account balances
+   c) A list of assets and liabilities
+   d) A record of daily transactions
+
+2. **Which of the following accounts will appear on a trial balance?**
+   a) Sales
+   b) Capital
+   c) Furniture
+   d) All of the above
+
+3. **If the debit side of a trial balance is ₹12,000 and the credit side is ₹11,500, what does it indicate?**
+   a) The books are perfectly balanced
+   b) There is an error of ₹500
+   c) Profit of ₹500
+   d) Loss of ₹500
+
+---
+
+### **Intermediate Level Questions**
+
+4. **Journal to Trial Balance**
+   Prepare a trial balance from the following ledger balances as of March 31, 2025:
+
+   * Cash: ₹10,000
+   * Capital: ₹50,000
+   * Furniture: ₹15,000
+   * Sales: ₹25,000
+   * Purchases: ₹20,000
+   * Rent Paid: ₹5,000
+
+5. **Identify the error**:
+   A trial balance shows unequal totals. After review, the following error was found:
+
+   * A sale of ₹5,000 was recorded on the credit side of the sales account but not recorded in the customer’s account.
+     What is the impact on the trial balance?
+
+---
+
+### **Advanced Level Questions**
+
+6. **Rectification and Impact on Trial Balance**
+   The trial balance did not agree. On investigation, the following errors were found:
+
+   * Purchase of furniture for ₹10,000 was debited to Purchases Account.
+   * Wages paid for installation of a machine ₹2,000 was debited to Wages Account.
+     What corrections are needed, and what will be their impact on the trial balance?
+
+7. **From the given trial balance, calculate total assets and liabilities.**
+   Trial Balance (as at 31st Dec 2024):
+
+   * Cash: ₹20,000 (Dr)
+   * Bank: ₹15,000 (Dr)
+   * Accounts Receivable: ₹30,000 (Dr)
+   * Accounts Payable: ₹10,000 (Cr)
+   * Sales: ₹80,000 (Cr)
+   * Capital: ₹50,000 (Cr)
+   * Purchases: ₹40,000 (Dr)
+   * Equipment: ₹25,000 (Dr)
+   * Rent Expense: ₹5,000 (Dr)
+   * Salaries Expense: ₹10,000 (Dr)
+
+---
+
+Would you like the **solutions** or **more questions on a specific topic** like errors in trial balance or preparing from journal entries?
+
+Sure! Here are **more advanced-level trial balance questions**, focusing on complex error detection, adjustments, classification, and interpretation — ideal for accounting exams or in-depth practice:
+
+---
+
+### ⚖️ **Advanced Trial Balance Questions**
+
+#### **Question 1: Error Classification and Rectification**
+
+The trial balance of a firm did not agree. On investigation, the following errors were discovered. Pass the rectification entries and state whether they affect the trial balance or not:
+
+1. Wages ₹6,000 paid for construction of a building were debited to Wages A/c.
+2. Repairs of ₹2,500 to machinery were debited to Machinery A/c.
+3. ₹1,200 paid for electricity was omitted from the books altogether.
+4. A credit sale of ₹5,000 to Mr. X was posted to the debit of Mr. Y.
+
+---
+
+#### **Question 2: Adjusted Trial Balance**
+
+You are given the following unadjusted trial balance:
+
+| Account Title       | Dr (₹) | Cr (₹) |
+| ------------------- | ------ | ------ |
+| Cash                | 10,000 |        |
+| Accounts Receivable | 25,000 |        |
+| Furniture           | 15,000 |        |
+| Sales               |        | 80,000 |
+| Purchases           | 45,000 |        |
+| Rent                | 12,000 |        |
+| Salaries            | 18,000 |        |
+| Capital             |        | 35,000 |
+| Accounts Payable    |        | 10,000 |
+| Drawings            | 5,000  |        |
+
+**Adjustments to be made**:
+
+* Closing stock: ₹20,000
+* Rent outstanding: ₹2,000
+* Salaries prepaid: ₹3,000
+
+**Task**: Prepare the adjusted trial balance.
+
+---
+
+#### **Question 3: Suspense Account Use**
+
+A trial balance shows a difference of ₹1,500 placed in the suspense account. On scrutiny, the following errors were found:
+
+1. A credit sale of ₹3,000 to Mr. Rahul was omitted from the books.
+2. Purchase of ₹1,200 was posted as ₹2,100.
+3. A payment of ₹1,000 to a creditor was posted on the debit side of the creditor’s account.
+4. ₹500 received from a debtor was wrongly credited to the Sales Account.
+
+**Task**: Pass the rectification entries and prepare the Suspense Account.
+
+---
+
+#### **Question 4: Trial Balance with Hidden Errors**
+
+The trial balance of Jaya & Co. as at 31st March, 2025 is as follows:
+
+| Account Title       | Dr (₹) | Cr (₹)   |
+| ------------------- | ------ | -------- |
+| Capital             |        | 1,00,000 |
+| Cash                | 8,000  |          |
+| Machinery           | 75,000 |          |
+| Purchases           | 65,000 |          |
+| Sales               |        | 1,30,000 |
+| Rent Paid           | 12,000 |          |
+| Commission Received |        | 5,000    |
+| Debtors             | 35,000 |          |
+| Creditors           |        | 20,000   |
+| Drawings            | 10,000 |          |
+| Total               | ???    | ???      |
+
+**Task**:
+
+* Find the missing total.
+* Identify if the trial balance is correct or not. If not, state the possible error and suggest corrections.
+
+---
+
+#### **Question 5: Classification & Interpretation**
+
+From the following balances, identify **which items belong to the debit or credit side of the trial balance** and briefly justify each classification:
+
+* Bank Overdraft ₹10,000
+* Interest Received ₹1,500
+* Prepaid Insurance ₹2,000
+* Accrued Income ₹3,000
+* Loan Taken ₹25,000
+* Bad Debts ₹1,200
+* Unearned Rent ₹4,000
+
+---
+
+Would you like detailed **solutions** to these, or more questions like these involving journal-to-trial balance conversion or year-end adjustments?
+
+Great! Below are the **answers and explanations** for each of the advanced trial balance questions I shared:
+
+---
+
+### ✅ **Question 1: Error Classification and Rectification**
+
+**1. Wages ₹6,000 paid for construction of a building debited to Wages A/c**
+
+* **Error**: Capital expenditure treated as revenue
+* **Rectification Entry**:
+
+  ```
+  Building A/c Dr. ₹6,000  
+     To Wages A/c ₹6,000  
+  ```
+
+  **Effect**: No impact on trial balance (corrects classification only)
+
+**2. Repairs ₹2,500 to machinery debited to Machinery A/c**
+
+* **Error**: Revenue expense treated as capital
+* **Rectification Entry**:
+
+  ```
+  Repairs A/c Dr. ₹2,500  
+     To Machinery A/c ₹2,500  
+  ```
+
+  **Effect**: No effect on trial balance total, but corrects classification
+
+**3. ₹1,200 electricity payment omitted**
+
+* **Error**: Complete omission
+* **Rectification Entry**:
+
+  ```
+  Electricity A/c Dr. ₹1,200  
+     To Cash/Bank A/c ₹1,200  
+  ```
+
+  **Effect**: Corrects trial balance (both sides were missing ₹1,200)
+
+**4. Credit sale ₹5,000 posted to wrong debtor**
+
+* **Error**: Personal account error
+* **Rectification Entry**:
+
+  ```
+  Mr. Y A/c Dr. ₹5,000  
+     To Mr. X A/c ₹5,000  
+  ```
+
+  **Effect**: No impact on trial balance (only individual account correction)
+
+---
+
+### ✅ **Question 2: Adjusted Trial Balance**
+
+**Unadjusted Trial Balance Totals:**
+
+* Dr = ₹125,000
+* Cr = ₹125,000
+
+**Adjustments**:
+
+* **Closing stock ₹20,000** → Not recorded yet, shown outside TB or added as adjustment
+* **Rent Outstanding ₹2,000** → Add to Rent and create Outstanding Rent (liability)
+* **Salaries Prepaid ₹3,000** → Deduct from Salaries and create Prepaid Salaries (asset)
+
+**Adjusted Entries**:
+
+* Rent A/c = ₹12,000 + ₹2,000 = ₹14,000
+* Salaries A/c = ₹18,000 – ₹3,000 = ₹15,000
+* Prepaid Salaries A/c = ₹3,000 (Dr)
+* Outstanding Rent A/c = ₹2,000 (Cr)
+* Closing Stock = ₹20,000 (shown in Trading A/c & Balance Sheet, not in TB)
+
+| Account Title       | Dr (₹)      | Cr (₹)      |
+| ------------------- | ----------- | ----------- |
+| Cash                | 10,000      |             |
+| Accounts Receivable | 25,000      |             |
+| Furniture           | 15,000      |             |
+| Purchases           | 45,000      |             |
+| Rent                | 14,000      |             |
+| Salaries            | 15,000      |             |
+| Prepaid Salaries    | 3,000       |             |
+| Drawings            | 5,000       |             |
+| Outstanding Rent    |             | 2,000       |
+| Sales               |             | 80,000      |
+| Capital             |             | 35,000      |
+| Accounts Payable    |             | 10,000      |
+| **Totals**          | **132,000** | **127,000** |
+
+Difference of ₹5,000 is due to **Closing Stock**, which goes to Trading A/c — not trial balance directly.
+
+---
+
+### ✅ **Question 3: Suspense Account**
+
+Initial Suspense A/c = ₹1,500 (Cr or Dr, depending on TB)
+
+**Rectification Entries:**
+
+1. **Omission of sale ₹3,000 to Mr. Rahul**
+
+   ```
+   Rahul A/c Dr. ₹3,000  
+      To Sales A/c ₹3,000  
+   ```
+2. **Purchase ₹1,200 posted as ₹2,100**
+   Excess debit of ₹900
+
+   ```
+   Suspense A/c Dr. ₹900  
+      To Purchases A/c ₹900  
+   ```
+3. **Creditor paid ₹1,000 posted to debit side** (i.e., double debit)
+   Credit missing = ₹2,000
+
+   ```
+   Suspense A/c Dr. ₹2,000  
+      To Creditors A/c ₹2,000  
+   ```
+4. **₹500 from debtor wrongly credited to Sales A/c**
+   Correct entry: Cash Dr. ₹500, Debtor Cr. ₹500
+   Wrong: Sales Cr. ₹500 → Overcredit
+   Correction:
+
+   ```
+   Sales A/c Dr. ₹500  
+      To Suspense A/c ₹500  
+   ```
+
+**Suspense A/c**:
+
+| Particulars     | Dr (₹) | Cr (₹) |
+| --------------- | ------ | ------ |
+| Purchases error | 900    |        |
+| Creditors error | 2,000  |        |
+| Sales error     |        | 500    |
+| **Balance c/d** |        | 2,400  |
+| **Total**       | 2,900  | 2,900  |
+
+Suspense account closed.
+
+---
+
+### ✅ **Question 4: Hidden Errors**
+
+Trial Balance Total (Dr):
+
+* Cash: ₹8,000
+* Machinery: ₹75,000
+* Purchases: ₹65,000
+* Rent Paid: ₹12,000
+* Debtors: ₹35,000
+* Drawings: ₹10,000
+* **Total Dr = ₹205,000**
+
+Cr side:
+
+* Capital: ₹100,000
+* Sales: ₹130,000
+* Commission Received: ₹5,000
+* Creditors: ₹20,000
+* **Total Cr = ₹255,000**
+
+**Difference = ₹50,000**
+
+**Likely Error**: Sales may have been overstated or Purchases/Debtors understated. Alternatively, a missing account or recording error (e.g., machinery recorded twice or capital understated).
+
+---
+
+### ✅ **Question 5: Classification**
+
+| Item                     | Dr/Cr | Reason                                     |
+| ------------------------ | ----- | ------------------------------------------ |
+| Bank Overdraft ₹10,000   | Cr    | Liability (overdrawn account)              |
+| Interest Received ₹1,500 | Cr    | Income                                     |
+| Prepaid Insurance ₹2,000 | Dr    | Asset (future benefit)                     |
+| Accrued Income ₹3,000    | Dr    | Asset (earned but not received)            |
+| Loan Taken ₹25,000       | Cr    | Liability                                  |
+| Bad Debts ₹1,200         | Dr    | Expense (loss due to irrecoverable amount) |
+| Unearned Rent ₹4,000     | Cr    | Liability (received in advance)            |
+
+---
+
+Would you like a printable worksheet version of these with space for students to solve?
+
+
+
+
+
+
+
+
+
+
+
+| Particulars          | Amount (₹) |
+| -------------------- | ---------- |
+| Capital              | 1,00,000   |
+| Cash                 | 20,000     |
+| Bank                 | 15,000     |
+| Furniture            | 30,000     |
+| Machinery            | 50,000     |
+| Purchases            | 40,000     |
+| Sales                | 70,000     |
+| Salaries             | 10,000     |
+| Rent                 | 5,000      |
+| Drawings             | 8,000      |
+| Creditors            | 18,000     |
+| Debtors              | 25,000     |
+| Sales Return         | 2,000      |
+| Purchase Return      | 3,000      |
+| Commission Received  | 6,000      |
+| Outstanding Rent     | 1,000      |
+| Prepaid Insurance    | 1,200      |
+| Loan Taken from Bank | 20,000     |
+
